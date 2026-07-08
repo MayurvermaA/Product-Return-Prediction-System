@@ -61,4 +61,4 @@ if st.button("Predict"):
     if prediction[0] == 0:
         st.success("✅ Product Will Not Be Returned")
     else:
-        st.error("🔄 Product Will Be Returned")s
+        st.error("🔄 Product Will Be Returned")
